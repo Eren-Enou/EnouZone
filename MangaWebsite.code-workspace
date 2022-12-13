@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../Coding Practice/JavaScript/Practice 1"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Manga"
+	}
+}
